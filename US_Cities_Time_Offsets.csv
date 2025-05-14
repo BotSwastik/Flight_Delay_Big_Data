@@ -1,0 +1,319 @@
+City,State,Time Offset (hrs from ET),Local Time
+Allentown,PA,0,0:00
+Abilene,TX,-1,23:00
+Albuquerque,NM,-2,22:00
+Aberdeen,SD,-1,23:00
+Albany,GA,0,0:00
+Nantucket,MA,0,0:00
+Waco,TX,-1,23:00
+Arcata/Eureka,CA,-3,21:00
+Atlantic City,NJ,0,0:00
+Adak,AK,-4,20:00
+Kodiak,AK,-4,20:00
+Alexandria,LA,-1,23:00
+Augusta,GA,0,0:00
+King Salmon,AK,-4,20:00
+Albany,NY,0,0:00
+Waterloo,IA,-1,23:00
+Amarillo,TX,-1,23:00
+Anchorage,AK,-4,20:00
+Alpena,MI,0,0:00
+Aspen,CO,-2,22:00
+Atlanta,GA,0,0:00
+Appleton,WI,-1,23:00
+Austin,TX,-1,23:00
+Asheville,NC,0,0:00
+Wilkes-Barre/Scranton,PA,0,0:00
+Kalamazoo,MI,0,0:00
+Windsor Locks,CT,0,0:00
+Bethel,AK,-4,20:00
+Bakersfield,CA,-3,21:00
+Binghamton,NY,0,0:00
+Bangor,ME,0,0:00
+Birmingham,AL,0,0:00
+Billings,MT,-2,22:00
+Bismarck,ND,-1,23:00
+Bemidji,MN,-1,23:00
+Bellingham,WA,-3,21:00
+Bloomington,IL,-1,23:00
+Nashville,TN,0,0:00
+Boise,ID,0,0:00
+Boston,MA,0,0:00
+Beaumont/Port Arthur,TX,-1,23:00
+Brunswick,GA,0,0:00
+Aguadilla,PR,-1,23:00
+Brainerd,MN,-1,23:00
+Brownsville,TX,-1,23:00
+Barrow,AK,-4,20:00
+Butte,MT,-2,22:00
+Baton Rouge,LA,-1,23:00
+Burlington,VT,0,0:00
+Buffalo,NY,0,0:00
+Burbank,CA,-3,21:00
+Baltimore,MD,0,0:00
+Bozeman,MT,-2,22:00
+Columbia,SC,0,0:00
+Akron,OH,0,0:00
+Cedar City,UT,-2,22:00
+Cordova,AK,-4,20:00
+Crescent City,CA,-3,21:00
+Chattanooga,TN,0,0:00
+Charlottesville,VA,0,0:00
+Charleston,SC,0,0:00
+Cedar Rapids,IA,-1,23:00
+Sault Ste. Marie,MI,0,0:00
+San Diego,CA,-3,21:00
+Cleveland,OH,0,0:00
+College Station,TX,-1,23:00
+Charlotte,NC,0,0:00
+Columbus,OH,0,0:00
+Champaign/Urbana,IL,-1,23:00
+Hancock,MI,0,0:00
+Moab,UT,-2,22:00
+Cody,WY,-2,22:00
+Colorado Springs,CO,-2,22:00
+Columbia,MO,-1,23:00
+Casper,WY,-2,22:00
+Corpus Christi,TX,-1,23:00
+Charleston,WV,0,0:00
+Columbus,GA,0,0:00
+Covington,KY,0,0:00
+Mosinee,WI,-1,23:00
+Daytona Beach,FL,0,0:00
+Dallas,TX,-1,23:00
+Dayton,OH,0,0:00
+Dubuque,IA,-1,23:00
+Arlington,VA,0,0:00
+Denver,CO,-2,22:00
+Dallas-Fort Worth,TX,-1,23:00
+Dothan,AL,0,0:00
+Dickinson,ND,-1,23:00
+Dillingham,AK,-4,20:00
+Duluth,MN,-1,23:00
+Durango,CO,-2,22:00
+Des Moines,IA,-1,23:00
+Detroit,MI,0,0:00
+Devils Lake,ND,-1,23:00
+Eau Claire,WI,-1,23:00
+Panama City,FL,0,0:00
+Eagle,CO,-2,22:00
+Elko,NV,-3,21:00
+Elmira,NY,0,0:00
+El Paso,TX,-1,23:00
+Erie,PA,0,0:00
+Escanaba,MI,0,0:00
+Eugene,OR,-3,21:00
+Evansville,IN,0,0:00
+New Bern,NC,0,0:00
+Newark,NJ,0,0:00
+Key West,FL,0,0:00
+Fairbanks,AK,-4,20:00
+Fargo,ND,-1,23:00
+Fresno,CA,-3,21:00
+Fayetteville,NC,0,0:00
+Kalispell,MT,-2,22:00
+Flagstaff,AZ,-3,21:00
+Ft. Lauderdale,FL,0,0:00
+Flint,MI,0,0:00
+Sioux Falls,SD,-1,23:00
+Fort Smith,AR,-1,23:00
+Fort Wayne,IN,0,0:00
+Gillette,WY,-2,22:00
+Garden City,KS,0,0:00
+Spokane,WA,-3,21:00
+Grand Forks,ND,-1,23:00
+Longview,TX,-1,23:00
+Grand Junction,CO,-2,22:00
+Gainesville,FL,0,0:00
+Gulfport-Biloxi,MS,-1,23:00
+Green Bay,WI,-1,23:00
+Grand Island,NE,-1,23:00
+Killeen,TX,-1,23:00
+Grand Rapids,MI,0,0:00
+Greensboro,NC,0,0:00
+Greer,SC,0,0:00
+Gustavus,AK,-4,20:00
+Great Falls,MT,-2,22:00
+Columbus-Starkville-West Point,MS,-1,23:00
+Gunnison,CO,-2,22:00
+Agana,GU,0,0:00
+Hayden,CO,-2,22:00
+Hibbing,MN,-1,23:00
+Helena,MT,-2,22:00
+Honolulu,HI,-5,19:00
+Hobbs,NM,-2,22:00
+Houston,TX,-1,23:00
+White Plains,NY,0,0:00
+Harlingen,TX,-1,23:00
+Huntsville,AL,0,0:00
+Hyannis,MA,0,0:00
+Hays,KS,0,0:00
+Chantilly,VA,0,0:00
+Niagara Falls,NY,0,0:00
+Wichita,KS,0,0:00
+Idaho Falls,ID,0,0:00
+Wilmington,DE,0,0:00
+Wilmington,NC,0,0:00
+Iron Mountain/Kingsford,MI,0,0:00
+Indianapolis,IN,0,0:00
+International Falls,MN,-1,23:00
+Williston,ND,-1,23:00
+Islip,NY,0,0:00
+Ithaca,NY,0,0:00
+Hilo,HI,-5,19:00
+Jackson,WY,-2,22:00
+Jackson,MS,-1,23:00
+Jacksonville,FL,0,0:00
+New York,NY,0,0:00
+Joplin,MO,-1,23:00
+Jamestown,ND,-1,23:00
+Juneau,AK,-4,20:00
+Kailua/Kona,HI,-5,19:00
+Ketchikan,AK,-4,20:00
+Lansing,MI,0,0:00
+Laramie,WY,-2,22:00
+Las Vegas,NV,-3,21:00
+Lawton,OK,0,0:00
+Los Angeles,CA,-3,21:00
+Lubbock,TX,-1,23:00
+Latrobe,PA,0,0:00
+Lake Charles,LA,-1,23:00
+Lexington,KY,0,0:00
+Lafayette,LA,-1,23:00
+Long Beach,CA,-3,21:00
+Lihue,HI,-5,19:00
+Little Rock,AR,-1,23:00
+Lincoln,NE,-1,23:00
+Laredo,TX,-1,23:00
+La Crosse,WI,-1,23:00
+Lewiston,ID,0,0:00
+Midland,TX,-1,23:00
+Saginaw,MI,0,0:00
+Kansas City,MO,-1,23:00
+Orlando,FL,0,0:00
+Harrisburg,PA,0,0:00
+Chicago,IL,-1,23:00
+Meridian,MS,-1,23:00
+Memphis,TN,0,0:00
+McAllen,TX,-1,23:00
+Medford,OR,-3,21:00
+Montgomery,AL,0,0:00
+Manhattan,KS,0,0:00
+Manchester,NH,0,0:00
+Miami,FL,0,0:00
+Milwaukee,WI,-1,23:00
+Muskegon,MI,0,0:00
+Melbourne,FL,0,0:00
+Moline,IL,-1,23:00
+Monroe,LA,-1,23:00
+Mammoth Lakes,CA,-3,21:00
+Mobile,AL,0,0:00
+Minot,ND,-1,23:00
+Marquette,MI,0,0:00
+Monterey,CA,-3,21:00
+Madison,WI,-1,23:00
+Missoula,MT,-2,22:00
+Minneapolis,MN,-1,23:00
+New Orleans,LA,-1,23:00
+Montrose,CO,-2,22:00
+Marthas Vineyard,MA,0,0:00
+Myrtle Beach,SC,0,0:00
+Jacksonville,NC,0,0:00
+Oakland,CA,-3,21:00
+Kahului,HI,-5,19:00
+Oklahoma City,OK,0,0:00
+Omaha,NE,-1,23:00
+Nome,AK,-4,20:00
+Ontario,CA,-3,21:00
+Norfolk,VA,0,0:00
+Worcester,MA,0,0:00
+North Bend,OR,-3,21:00
+Kotzebue,AK,-4,20:00
+Paducah,KY,0,0:00
+Plattsburgh,NY,0,0:00
+West Palm Beach,FL,0,0:00
+Portland,OR,-3,21:00
+Newport News,VA,0,0:00
+Philadelphia,PA,0,0:00
+Phoenix,AZ,-3,21:00
+Peoria,IL,-1,23:00
+Hattiesburg-Laurel,MS,-1,23:00
+Pocatello,ID,0,0:00
+Pittsburgh,PA,0,0:00
+Pellston,MI,0,0:00
+Pensacola,FL,0,0:00
+Pago Pago,AS,-5,19:00
+Pasco,WA,-3,21:00
+Ponce,PR,-1,23:00
+Petersburg,AK,-4,20:00
+Palm Springs,CA,-3,21:00
+Pueblo,CO,-2,22:00
+Providence,RI,0,0:00
+Portland,ME,0,0:00
+Rapid City,SD,-1,23:00
+Redding,CA,-3,21:00
+Redmond,OR,-3,21:00
+Raleigh,NC,0,0:00
+Rhinelander,WI,-1,23:00
+Richmond,VA,0,0:00
+Rock Springs,WY,-2,22:00
+Reno,NV,-3,21:00
+Roanoke,VA,0,0:00
+Rochester,NY,0,0:00
+Roswell,NM,-2,22:00
+Rochester,MN,-1,23:00
+Ft. Myers,FL,0,0:00
+Santa Fe,NM,-2,22:00
+San Antonio,TX,-1,23:00
+Savannah,GA,0,0:00
+Santa Barbara,CA,-3,21:00
+South Bend,IN,0,0:00
+San Luis Obispo,CA,-3,21:00
+Deadhorse,AK,-4,20:00
+State College,PA,0,0:00
+Louisville,KY,0,0:00
+Seattle,WA,-3,21:00
+San Francisco,CA,-3,21:00
+Springfield,MO,-1,23:00
+St George,UT,-2,22:00
+Shreveport,LA,-1,23:00
+Sitka,AK,-4,20:00
+San Jose,CA,-3,21:00
+San Angelo,TX,-1,23:00
+San Juan,PR,-1,23:00
+Salt Lake City,UT,-2,22:00
+Sacramento,CA,-3,21:00
+Santa Maria,CA,-3,21:00
+Santa Ana,CA,-3,21:00
+Springfield,IL,-1,23:00
+Wichita Falls,TX,-1,23:00
+Sarasota,FL,0,0:00
+St Cloud,MN,-1,23:00
+St Louis,MO,-1,23:00
+Charlotte Amalie,VI,0,0:00
+Christiansted,VI,0,0:00
+Hailey,ID,0,0:00
+Sioux City,IA,-1,23:00
+Newburgh,NY,0,0:00
+Syracuse,NY,0,0:00
+Tallahassee,FL,0,0:00
+Toledo,OH,0,0:00
+Tampa,FL,0,0:00
+Bristol,TN,0,0:00
+Trenton,NJ,0,0:00
+Tulsa,OK,0,0:00
+Tucson,AZ,-3,21:00
+Traverse City,MI,0,0:00
+Twin Falls,ID,0,0:00
+Texarkana,AR,-1,23:00
+Tyler,TX,-1,23:00
+Knoxville,TN,0,0:00
+St. Augustine,FL,0,0:00
+Vernal,UT,-2,22:00
+Valdosta,GA,0,0:00
+Valparaiso,FL,0,0:00
+Wrangell,AK,-4,20:00
+West Yellowstone,MT,-2,22:00
+Fayetteville/Springdale/Rogers,AR,-1,23:00
+Yakutat,AK,-4,20:00
+Yuma,AZ,-3,21:00
